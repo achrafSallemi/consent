@@ -48,15 +48,15 @@
   "vendors": [
 	{
 	  "id": 8,
-	  "name": "Emerse Sverige AB",
-	  "policyUrl": "https://www.emerse.com/privacy-policy/",
+	  "name": "Plista",
+	  "policyUrl": "https://www.plista.com/about/privacy/",
 	  "purposeIds": [
 		1,
 		2,
+		3,
 		4
 	  ],
 	  "legIntPurposeIds": [
-		3,
 		5
 	  ],
 	  "featureIds": [
@@ -64,210 +64,74 @@
 		2
 	  ]
 	},
-	{
-	  "id": 12,
-	  "name": "BeeswaxIO Corporation",
-	  "policyUrl": "https://www.beeswax.com/privacy.html",
-	  "purposeIds": [
-		1,
-		3,
-		5
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": [
-		3
-	  ]
-	},
-	{
-	  "id": 28,
-	  "name": "TripleLift, Inc.",
-	  "policyUrl": "https://triplelift.com/privacy/",
-	  "purposeIds": [
-		1,
-		3
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": [
-		3
-	  ]
-	},
-	{
-	  "id": 9,
-	  "name": "AdMaxim Inc.",
-	  "policyUrl": "http://www.admaxim.com/privacy/",
-	  "purposeIds": [
-		1,
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": [
-		1,
-		2,
-		3
-	  ]
-	},
-	{
-	  "id": 27,
-	  "name": "ADventori SAS",
-	  "policyUrl": "https://www.adventori.com/with-us/legal-notice/",
-	  "purposeIds": [
-		2
-	  ],
-	  "legIntPurposeIds": [
-		1,
-		3,
-		4,
-		5
-	  ],
-	  "featureIds": []
-	},
-	{
-	  "id": 25,
-	  "name": "Oath (EMEA) Limited",
-	  "policyUrl": "https://policies.oath.com/ie/en/oath/privacy/index.html",
-	  "purposeIds": [
-		1,
-		2
-	  ],
-	  "legIntPurposeIds": [
-		3,
-		5
-	  ],
-	  "featureIds": [
-		1,
-		2,
-		3
-	  ]
-	},
-	{
-	  "id": 26,
-	  "name": "Venatus Media Limited",
-	  "policyUrl": "https://www.venatusmedia.com/privacy/",
-	  "purposeIds": [
-		1,
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": []
-	},
-	{
-	  "id": 1,
-	  "name": "Exponential Interactive, Inc",
-	  "policyUrl": "http://exponential.com/privacy",
-	  "purposeIds": [
-		1,
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": []
-	},
-	{
-	  "id": 6,
-	  "name": "AdSpirit GmbH",
-	  "policyUrl": "http://www.adspirit.de/privacy",
-	  "purposeIds": [
-		1,
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": []
-	},
-	{
-	  "id": 30,
-	  "name": "BidTheatre AB",
-	  "policyUrl": "https://www.bidtheatre.com/privacy-policy",
-	  "purposeIds": [
-		1,
-		2,
-		3
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": [
-		2,
-		3
-	  ]
-	},
-	{
-	  "id": 24,
-	  "name": "Conversant Europe Ltd.",
-	  "policyUrl": "https://www.conversantmedia.eu/legal/privacy-policy",
-	  "purposeIds": [
-		1
-	  ],
-	  "legIntPurposeIds": [
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "featureIds": [
-		1,
-		2,
-		3
-	  ]
-	},
-	{
-	  "id": 29,
-	  "name": "Etarget SE",
-	  "policyUrl": "https://www.etarget.sk/privacy.php",
-	  "purposeIds": [
-		1,
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "legIntPurposeIds": [],
-	  "featureIds": [
-		1
-	  ]
-	},
-	{
-	  "id": 39,
-	  "name": "ADITION technologies AG",
-	  "policyUrl": "adition.com/datenschutz",
-	  "purposeIds": [],
-	  "legIntPurposeIds": [
-		1,
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "featureIds": [
-		1,
-		2,
-		3
-	  ]
-	},
-	{
-	  "id": 11,
-	  "name": "Quantcast International Limited",
-	  "policyUrl": "https://www.quantcast.com/privacy/",
-	  "purposeIds": [
-		1
-	  ],
-	  "legIntPurposeIds": [
-		2,
-		3,
-		4,
-		5
-	  ],
-	  "featureIds": [
-		1
-	  ]
-	}
+     {  
+	 "id":98,
+	 "name":"mPlatform",
+	 "policyUrl":"https://www.groupm.com/mplatform-privacy-policy",
+	 "purposeIds":[  
+	    1,
+	    2,
+	    3,
+	    4
+	 ],
+	 "legIntPurposeIds":[  
+	    5
+	 ],
+	 "featureIds":[  
+	    1,
+	    2,
+	    3
+	 ]
+      },
+      {  
+         "id":42,
+         "name":"Taboola Europe Limited",
+         "policyUrl":"https://www.taboola.com/privacy-policy",
+         "purposeIds":[  
+            1
+         ],
+         "legIntPurposeIds":[  
+            2,
+            3,
+            4,
+            5
+         ],
+         "featureIds":[  
+            1,
+            2
+         ]
+      },
+	      {  
+         "id":32,
+         "name":"AppNexus Inc.",
+         "policyUrl":"https://www.appnexus.com/en/company/platform-privacy-policy",
+         "purposeIds":[  
+            1
+         ],
+         "legIntPurposeIds":[  
+            3
+         ],
+         "featureIds":[  
+            2,
+            3
+         ]
+      },
+      {  
+         "id":91,
+         "name":"Criteo SA",
+         "policyUrl":"https://www.criteo.com/privacy/",
+         "purposeIds":[  
+            1,
+            2,
+            3
+         ],
+         "legIntPurposeIds":[  
+
+         ],
+         "featureIds":[  
+            1,
+            2
+         ]
+      }
   ]
 }

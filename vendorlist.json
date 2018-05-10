@@ -46,10 +46,10 @@
 	}
   ],
   "vendors": [
-	{
-	  "id": 9,
-	  "name": "Plista",
-	  "policyUrl": "https://www.plista.com/about/privacy/",
+      {  
+         "id":100,
+         "name":"Plista",
+         "policyUrl":"https://www.plista.com/about/privacy/",
 	  "purposeIds": [
 		1,
 		2,
@@ -63,7 +63,7 @@
 		1,
 		2
 	  ]
-	},
+      },	  
      {  
 	 "id":98,
 	 "name":"mPlatform",
